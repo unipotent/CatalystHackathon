@@ -1,13 +1,4 @@
 # 💥CrashSense💥
-Our project is a Crash Detection and Signal System that automatically alerts others when someone experiences a fall or crash.
-
-The device uses an accelerometer (MPU6050) to constantly monitor movement. If the sensor detects a sudden impact or unusual acceleration that indicates a crash, the system immediately sends an emergency signal using an infrared (IR) transmitter.
-
-A nearby IR receiver connected to an LCD screen receives the signal and displays a message such as “Crash detected in Sector A” or “Crew member down – check location.”
-
-This system works without internet or satellites, making it reliable in remote or unknown environments like Planet X.
-
-By automatically detecting accidents and sending alerts, the device helps rescue teams quickly locate injured crew members and respond faster, improving safety and survival chances.
 
 ## Problem
 
@@ -17,7 +8,7 @@ This creates a serious safety problem. Injured astronauts could be lost without 
 
 ## Solution
 
-### Our solution is a Crash Detection and Warning System that detects when someone is about to crash and automatically sends a distress signal.
+Our solution is a Crash Detection and Warning System that detects when someone is about to crash and automatically sends a distress signal.
 
 The device uses an accelerometer (MPU6050) to continuously monitor movement and acceleration. When the sensor detects sudden or abnormal motion that suggests a crash is happening, the system immediately activates a warning and sends a signal.
 
