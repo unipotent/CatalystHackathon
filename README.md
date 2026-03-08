@@ -17,7 +17,7 @@ This creates a serious safety problem. Injured astronauts could be lost without 
 
 ## Solution
 
-Our solution is a Crash Detection and Warning System that detects when someone is about to crash and automatically sends a distress signal.
+### Our solution is a Crash Detection and Warning System that detects when someone is about to crash and automatically sends a distress signal.
 
 The device uses an accelerometer (MPU6050) to continuously monitor movement and acceleration. When the sensor detects sudden or abnormal motion that suggests a crash is happening, the system immediately activates a warning and sends a signal.
 
