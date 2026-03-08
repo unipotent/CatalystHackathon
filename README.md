@@ -1,5 +1,5 @@
 # 💥CrashSense💥
-##Solution
+## Solution
 Our solution is a Crash Detection and Signal System that automatically alerts others when someone experiences a fall or crash.
 
 The device uses an accelerometer (MPU6050) to constantly monitor movement. If the sensor detects a sudden impact or unusual acceleration that indicates a crash, the system immediately sends an emergency signal using an infrared (IR) transmitter.
